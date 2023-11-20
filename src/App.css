@@ -1,1 +1,17 @@
 /* add your styles here */
+*{
+    justify-content: center;
+}
+h1{
+    text-align: center;
+}
+div{
+    display: flex;
+    flex-wrap: wrap;
+}
+img{
+    width: 700px;
+    height: 500px;
+    margin-left:20px ;
+    margin-bottom: 30px;
+}
